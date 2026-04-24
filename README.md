@@ -34,3 +34,14 @@ HR Workflow Designer allows users to create structured workflows by connecting d
 ---
 
 ## 📂 Project Structure
+src/
+├── components/
+│    ├── FlowCanvas.jsx
+│    ├── Sidebar.jsx
+│    ├── NodePanel.jsx
+│
+├── data/
+│    ├── mockApi.js
+│
+├── App.jsx
+├── main.jsx
